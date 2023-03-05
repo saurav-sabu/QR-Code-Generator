@@ -1,2 +1,2 @@
 
-Link to WebApp:- https://qr-code-generator-python.herokuapp.com/
+Link to WebApp:- https://huggingface.co/spaces/saurav-sabu/QR-Code-Generator
